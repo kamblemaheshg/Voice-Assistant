@@ -73,7 +73,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         title: BounceInDown(
-          child: const Text('Allen'),
+          child: const Text('Voice Assistant'),
         ),
         leading: const Icon(Icons.menu),
         centerTitle: true,
